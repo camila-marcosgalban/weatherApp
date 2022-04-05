@@ -1,0 +1,27 @@
+.container {
+	display: flex;
+	justify-content: center;
+}
+.card {
+	width: 800px;
+	padding: 2rem;
+	margin: 0.5rem;
+	background: rgb(200, 190, 215);
+	background: linear-gradient(
+		0deg,
+		rgba(200, 190, 215, 1) 0%,
+		rgba(253, 225, 204, 1) 73%
+	);
+	border-radius: 15px;
+	color: #a786d8;
+	transition: all 0.3s ease-in;
+	box-shadow: 5px 6px 10px rgba(241, 170, 107, 0.746);
+}
+
+.card div {
+	margin-bottom: 1rem;
+}
+
+.name {
+	margin-bottom: 2rem;
+}

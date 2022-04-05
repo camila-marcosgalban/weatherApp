@@ -1,0 +1,27 @@
+.input {
+	background: rgb(200, 190, 215);
+	border: rgba(237, 212, 234, 1) solid 1px;
+	width: 200px;
+	height: 50px;
+	border-radius: 5px;
+	margin-right: 1rem;
+	padding-left: 0.5rem;
+	color: white;
+	font-weight: 600;
+	text-transform: capitalize;
+}
+
+.input:focus {
+	border: rgba(237, 212, 234, 1) solid 1px;
+	outline: none;
+}
+
+.btn {
+	background: rgb(200, 190, 215);
+	border: rgba(237, 212, 234, 1) solid 1px;
+	border-radius: 5px;
+	color: #969ec3;
+	font-weight: bold;
+	width: 60px;
+	height: 50px;
+}

@@ -1,0 +1,9 @@
+.app {
+	background-color: #f5e4f3;
+	height: 100vh;
+	text-align: center;
+}
+
+a:hover {
+	text-decoration: none;
+}
